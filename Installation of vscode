@@ -1,0 +1,39 @@
+Installation of VS Code
+Download the Installer: Visit the VS Code website, click "Download" for Windows.
+Run the Installer: Follow the installation wizard, accept the license, choose installation location, select additional tasks, and install.
+Complete Installation: Launch VS Code after installation.
+First-time Setup
+Settings Sync: Sign in with a Microsoft or GitHub account.
+Theme: Select from File > Preferences > Color Theme.
+Font Size: Adjust via File > Preferences > Settings.
+Extensions: Install essential extensions like Prettier, ESLint, Python, and Live Server.
+User Interface Overview
+Activity Bar: Access views like Explorer, Search, Source Control, Run and Debug, Extensions.
+Side Bar: Displays views based on Activity Bar selection.
+Editor Group: Central area for editing files, supports split view.
+Status Bar: Displays Git branch, line/column number, language mode, notifications.
+Command Palette
+Access: Press Ctrl+Shift+P (Windows) or Cmd+Shift+P (Mac).
+Common Tasks: Open file, go to symbol, format document.
+Extensions in VS Code
+Role: Enhance functionality with new features, languages, debuggers, tools.
+Management: Find/install via Extensions view (Ctrl+Shift+X), manage by enabling/disabling.
+Essential Extensions: Live Server, Prettier, ESLint, GitLens.
+Integrated Terminal
+Usage: Open with Ctrl+ (backtick) or View > Terminal.
+Advantages: Interact with project environment, run commands/scripts, support multiple instances/shells.
+File and Folder Management
+Create: Right-click in Explorer, select "New File/New Folder".
+Open: Drag and drop, use File > Open File/Open Folder.
+Navigate: Use Ctrl+P, Explorer view.
+Settings and Preferences
+Access: Via File > Preferences > Settings or Ctrl+,.
+Customization: Change theme, adjust font size, modify keybindings.
+Debugging in VS Code
+Setup: Ensure launch.json is configured, set breakpoints.
+Start: Click Run and Debug icon, select configuration, click play.
+Key Features: Variable inspection, watch expressions, call stack navigation, step-through code execution.
+Using Source Control
+Initialize Repository: Open project folder, click Source Control icon, initialize repository.
+Make Commits: Stage changes, enter commit message, commit.
+Push to GitHub: Set up remote repository, use command palette or terminal to push changes.
